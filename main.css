@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+}
+
+table {
+    background-color: white;
+    font-family: sans-serif;
+    font-size: 11pt;
+    border: 0;
+}
+tr {
+    border: 0;
+}
+
+td {
+    border: 0;
+}
+
+th {
+    border: 0;
+    background-color: grey;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "animation-experiments-vanilla",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "http-server"
+  },
+  "dev-dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {
+    "stylelint": "^13.6.1",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "dependencies": {
+    "lottie-web": "^5.7.2"
+  }
+}
